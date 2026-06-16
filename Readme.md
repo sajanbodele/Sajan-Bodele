@@ -15,14 +15,13 @@ Focused on:
 Currently obsessed with understanding how great products go from 0 → 1 and how AI changes the way products are built.
 
 
-<br clear="right"/>
-
 
 ## 🚀 Currently Building
-- [Sakhi](https://github.com/prernaaagarwal/Sakhi) → AI voice agent for hotel operations  
-- [PromptOS](https://github.com/prernaaagarwal/PromptOS) → Structured prompt engineering system  
-- [AI Product Notes](https://github.com/prernaaagarwal/ai-product-notes) → Notes on building AI systems 
-<br clear="right"/>
+- **[ChalotripBot](https://github.com/Anmoll-W/blog/blob/main/series/building-chalotripbot.md)**: Build story. Telegram bot for group trip planning, budgets, and bill splits.
+- **[BlinkFit](https://github.com/Anmoll-W/blinkfit)**: Case study. Peak-hour decision support for dark store managers, context-aware alert ranking for Blinkit's 6-10 PM window.
+- **[BharatCRM](https://github.com/Anmoll-W/bharatcrm)**: Case study. WhatsApp-first CRM for T2/T3 India founders. Complete product strategy from 500 founder interviews.
+- **[youtube-longform](https://github.com/Anmoll-W/youtube-longform)**: Case study. Product spec for fixing YouTube's algorithm bias against long-form. 
+
 
 ## 🛠 Tech Stack
 
@@ -45,8 +44,6 @@ Currently obsessed with understanding how great products go from 0 → 1 and how
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge\&logo=claude\&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge\&logo=perplexity\&logoColor=088F8F) <img src="https://img.shields.io/badge/notebooklm-000000?style=for-the-badge&logo=notebooklm&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
 <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
 ![Cursor](https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge\&logo=Cursor\&logoColor=white)
@@ -55,4 +52,3 @@ Currently obsessed with understanding how great products go from 0 → 1 and how
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=#00C7B7)
-![Salesforce](https://img.shields.io/badge/Salesforce-blue?style=for-the-badge\&logo=salesforce\&logoColor=white)
