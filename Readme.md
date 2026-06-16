@@ -27,13 +27,12 @@ Currently obsessed with understanding how great products go from 0 → 1 and how
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge\&logo=jira\&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge\&logo=confluence\&logoColor=white)
-![Linear](https://img.shields.io/badge/linear-5E6AD2.svg?style=for-the-badge\&logo=linear\&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge\&logo=notion\&logoColor=white)
-![ClickUp](https://img.shields.io/badge/clickup-7B68EE.svg?style=for-the-badge\&logo=clickup\&logoColor=white)
-![Asana](https://img.shields.io/badge/asana-F06A6A.svg?style=for-the-badge\&logo=asana\&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge\&logo=Trello\&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge\&logo=miro\&logoColor=black)
+![Asana](https://img.shields.io/badge/asana-F06A6A.svg?style=for-the-badge\&logo=asana\&logoColor=white)
+![ClickUp](https://img.shields.io/badge/clickup-7B68EE.svg?style=for-the-badge\&logo=clickup\&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge\&logo=Trello\&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge\&logo=framer\&logoColor=blue)
 ![Hotjar](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge\&logo=hotjar\&logoColor=white)
 <img src="https://img.shields.io/badge/Typeform-262627?style=for-the-badge&logo=typeform&logoColor=white" />
